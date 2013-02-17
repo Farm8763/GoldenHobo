@@ -1,0 +1,57 @@
+/etc/gdm/Xsession: Beginning session setup...
+localuser:robocode being added to access control list
+/etc/gdm/Xsession: ssh-agent not found!
+/etc/gdm/Xsession: Setup done, will execute: gnome-session
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-rGgE03
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-rGgE03
+SSH_AUTH_SOCK=/run/user/1000/keyring-rGgE03/ssh
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-rGgE03
+SSH_AUTH_SOCK=/run/user/1000/keyring-rGgE03/ssh
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-rGgE03
+SSH_AUTH_SOCK=/run/user/1000/keyring-rGgE03/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring-rGgE03/gpg:0:1
+Failed to play sound: File or data not found
+
+** (nm-applet:513): WARNING **: Could not initialize NMClient /org/freedesktop/NetworkManager: Unit dbus-org.freedesktop.NetworkManager.service failed to load: No such file or directory. See system logs and 'systemctl status dbus-org.freedesktop.NetworkManager.service' for details.
+** Message: applet now removed from the notification area
+
+** (nm-applet:513): WARNING **: fetch_connections_done: error fetching connections: (32) Unit dbus-org.freedesktop.NetworkManager.service failed to load: No such file or directory. See system logs and 'systemctl status dbus-org.freedesktop.NetworkManager.service' for details..
+
+** (nm-applet:513): WARNING **: Failed to register as an agent: (32) Unit dbus-org.freedesktop.NetworkManager.service failed to load: No such file or directory. See system logs and 'systemctl status dbus-org.freedesktop.NetworkManager.service' for details.
+      JS LOG: Error: Requiring IBus, version none: Typelib file for namespace 'IBus' (any version) not found
+Window manager warning: Log level 16: Could not initialize NMClient /org/freedesktop/NetworkManager: Unit dbus-org.freedesktop.NetworkManager.service failed to load: No such file or directory. See system logs and 'systemctl status dbus-org.freedesktop.NetworkManager.service' for details.
+      JS LOG: GNOME Shell started at Mon Jan 28 2013 02:03:43 GMT-0500 (EST)
+** Message: applet now embedded in the notification area
+Window manager warning: CurrentTime used to choose focus window; focus window may not be correct.
+Window manager warning: Got a request to focus the no_focus_window with a timestamp of 0.  This shouldn't happen!
+Window manager warning: Log level 16: fetch_connections_done: error fetching connections: (32) Unit dbus-org.freedesktop.NetworkManager.service failed to load: No such file or directory. See system logs and 'systemctl status dbus-org.freedesktop.NetworkManager.service' for details..
+Window manager warning: Log level 16: _nm_remote_settings_ensure_inited: (NMRemoteSettings) error initializing: Unit dbus-org.freedesktop.NetworkManager.service failed to load: No such file or directory. See system logs and 'systemctl status dbus-org.freedesktop.NetworkManager.service' for details.
+
+Window manager warning: CurrentTime used to choose focus window; focus window may not be correct.
+Window manager warning: Got a request to focus the no_focus_window with a timestamp of 0.  This shouldn't happen!
+
+(gnome-settings-daemon:447): wacom-plugin-CRITICAL **: gsd_wacom_device_get_device_type: assertion `GSD_IS_WACOM_DEVICE (device)' failed
+
+(gnome-settings-daemon:447): wacom-plugin-CRITICAL **: gsd_wacom_device_get_device_type: assertion `GSD_IS_WACOM_DEVICE (device)' failed
+
+(gnome-settings-daemon:447): wacom-plugin-CRITICAL **: gsd_wacom_device_get_device_type: assertion `GSD_IS_WACOM_DEVICE (device)' failed
+
+(gnome-settings-daemon:447): wacom-plugin-CRITICAL **: gsd_wacom_device_get_device_type: assertion `GSD_IS_WACOM_DEVICE (device)' failed
+
+(gnome-settings-daemon:447): wacom-plugin-CRITICAL **: gsd_wacom_device_get_device_type: assertion `GSD_IS_WACOM_DEVICE (device)' failed
+
+(gnome-settings-daemon:447): wacom-plugin-CRITICAL **: gsd_wacom_device_get_device_type: assertion `GSD_IS_WACOM_DEVICE (device)' failed
+
+(gnome-settings-daemon:447): wacom-plugin-CRITICAL **: gsd_wacom_device_get_device_type: assertion `GSD_IS_WACOM_DEVICE (device)' failed
+
+(gnome-settings-daemon:447): wacom-plugin-CRITICAL **: gsd_wacom_device_get_device_type: assertion `GSD_IS_WACOM_DEVICE (device)' failed
+gnome-session[409]: CRITICAL: gsm_manager_set_phase: assertion `GSM_IS_MANAGER (manager)' failed
+gnome-session[409]: Gtk-CRITICAL: gtk_main_quit: assertion `main_loops != NULL' failed
+
+(gnome-settings-daemon:447): Gdk-WARNING **: gnome-settings-daemon: Fatal IO error 0 (Success) on X server :0.
+
+Window manager warning: Log level 16: gnome-shell: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(nm-applet:513): Gdk-WARNING **: nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+

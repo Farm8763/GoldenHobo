@@ -1,0 +1,531 @@
+1.1
+applications.menu
+10
+D/home/robocode/.local/share/desktop-directories
+D/usr/local/share/desktop-directories
+D/usr/share/desktop-directories
+D/home/robocode/.local/share/applications
+D/usr/local/share/applications
+D/usr/share/applications
+D/etc/xdg/menus/applications-merged
+D/home/robocode/.config/menus/applications-merged
+F/home/robocode/.config/menus/lxde-applications.menu
+F/etc/xdg/menus/lxde-applications.menu
+Unity;
++Applications
+Applications
+Applications
+applications-other
+lxde-menu-applications.directory
+2
++Accessories
+Accessories
+Desktop accessories
+applications-accessories
+lxde-utility.directory
+2
+-pcmanfm.desktop
+File Manager PCManFM
+Browse the file system and manage the files
+system-file-manager
+
+5
+File Manager PCManFM
+pcmanfm %U
+2
+0
+-nautilus.desktop
+Files
+Access and organize files
+system-file-manager
+
+5
+Files
+nautilus %U
+2
+34
+-yelp.desktop
+Help
+Get help with GNOME
+help-browser
+
+5
+Help
+yelp %u
+2
+34
+-gpicview.desktop
+Image Viewer
+View your images easily
+gpicview
+
+5
+Image Viewer
+gpicview %f
+2
+0
+-lxterminal.desktop
+LXTerminal
+Use the command line
+lxterminal
+
+5
+LXTerminal
+lxterminal
+0
+0
+-sublime-text.desktop
+Sublime Text
+sophisticated text editor for code, html and prose
+sublime_text
+
+5
+Sublime Text
+subl %F
+0
+0
+-gnome-terminal.desktop
+Terminal
+Use the command line
+utilities-terminal
+
+5
+Terminal
+gnome-terminal
+2
+0
+-gvim.desktop
+Vi IMproved
+Powerful text editor with scripting functions and macro recorder
+gvim
+
+5
+Vi IMproved
+gvim -f %F
+0
+0
+
++Games
+Games
+Games and amusements
+applications-games
+lxde-game.directory
+2
+-robocode.desktop
+RoboCode
+
+/opt/robocode/robocode.ico
+
+5
+RoboCode
+/usr/bin/robocode
+2
+0
+
++Internet
+Internet
+Programs for Internet access such as web and email
+applications-internet
+lxde-network.directory
+2
+-bssh.desktop
+Avahi SSH Server Browser
+Browse for Zeroconf-enabled SSH Servers
+network-wired
+
+5
+Avahi SSH Server Browser
+/usr/bin/bssh
+0
+0
+-bvnc.desktop
+Avahi VNC Server Browser
+Browse for Zeroconf-enabled VNC Servers
+network-wired
+
+5
+Avahi VNC Server Browser
+/usr/bin/bvnc
+0
+0
+-google-chrome.desktop
+Google Chrome
+Access the Internet
+google-chrome
+
+5
+Google Chrome
+/opt/google/chrome/google-chrome %U
+0
+0
+-epiphany.desktop
+Web
+Browse the web
+web-browser
+
+5
+Epiphany Web Browser
+epiphany %U
+2
+0
+
++Development
+Programming
+Tools for software development
+applications-development
+lxde-development.directory
+2
+-eclipse.desktop
+Eclipse
+A Java Development Environment
+eclipse
+
+5
+Eclipse
+eclipse
+2
+0
+-jconsole.desktop
+OpenJDK Monitoring & Management Console
+Monitor and manage OpenJDK applications
+java
+
+5
+OpenJDK Monitoring & Management Console
+/usr/bin/jconsole
+0
+0
+-policytool.desktop
+OpenJDK Policy Tool
+Manage OpenJDK policy files
+java
+
+5
+OpenJDK Policy Tool
+/usr/bin/policytool
+0
+0
+
++Multimedia
+Sound & Video
+Multimedia menu
+applications-multimedia
+lxde-audio-video.directory
+2
+-lxmusic.desktop
+Music Player
+Play your music files easily
+lxmusic
+
+5
+Music Player
+lxmusic
+2
+0
+
++System
+System Tools
+System configuration and monitoring
+applications-system
+lxde-system-tools.directory
+2
+-avahi-discover.desktop
+Avahi Zeroconf Browser
+Browse for Zeroconf services available on your network
+network-wired
+
+5
+Avahi Zeroconf Browser
+/usr/bin/avahi-discover
+0
+0
+-htop.desktop
+Htop
+Show System Processes
+htop
+
+5
+Htop
+htop
+1
+0
+-gnome-control-center.desktop
+System Settings
+
+preferences-system
+
+5
+System Settings
+gnome-control-center --overview
+2
+34
+-lxtask.desktop
+Task Manager
+Manage running processes
+utilities-system-monitor
+
+5
+Task Manager
+lxtask
+2
+0
+-dconf-editor.desktop
+dconf Editor
+Directly edit your entire configuration database
+dconf-editor
+
+5
+dconf Editor
+dconf-editor
+2
+0
+
+-
++DesktopSettings
+Preferences
+Personal preferences
+preferences-desktop
+lxde-settings.directory
+2
+-gnome-background-panel.desktop
+Background
+Change the background
+preferences-desktop-wallpaper
+
+5
+Background
+gnome-control-center background
+2
+2
+-bluetooth-properties.desktop
+Bluetooth
+Configure Bluetooth settings
+bluetooth
+
+5
+Bluetooth
+gnome-control-center bluetooth
+2
+34
+-gnome-screen-panel.desktop
+Brightness & Lock
+Screen brightness and lock settings
+system-lock-screen
+
+5
+Brightness & Lock
+gnome-control-center screen
+2
+34
+-gnome-color-panel.desktop
+Color
+Color management settings
+preferences-color
+
+5
+Color
+gnome-control-center color
+2
+34
+-lxappearance.desktop
+Customize Look and Feel
+Customizes look and feel of your desktop and applications
+preferences-desktop-theme
+
+5
+Customize Look and Feel
+lxappearance
+2
+-11
+-gnome-datetime-panel.desktop
+Date & Time
+Date and Time preferences panel
+preferences-system-time
+
+5
+Date & Time
+gnome-control-center datetime
+2
+2
+-pcmanfm-desktop-pref.desktop
+Desktop Preferences
+Change desktop wallpapers and behavior of desktop manager
+user-desktop
+
+5
+Desktop Preferences
+pcmanfm --desktop-pref
+2
+-15
+-gnome-info-panel.desktop
+Details
+System Information
+applications-system
+
+5
+Details
+gnome-control-center info
+2
+34
+-gnome-display-panel.desktop
+Displays
+Change resolution and position of monitors and projectors
+preferences-desktop-display
+
+5
+Displays
+gnome-control-center display
+2
+34
+-gnome-keyboard-panel.desktop
+Keyboard
+Change keyboard settings
+input-keyboard
+
+5
+Keyboard
+gnome-control-center keyboard
+2
+34
+-lxinput.desktop
+Keyboard and Mouse
+Configure keyboard, mouse, and other input devices
+input-keyboard
+
+5
+Keyboard and Mouse
+lxinput
+2
+1
+-lxrandr.desktop
+Monitor Settings
+Change screen resolution and configure external monitors
+display
+
+5
+Monitor Settings
+lxrandr
+0
+0
+-gnome-mouse-panel.desktop
+Mouse & Touchpad
+Set your mouse and touchpad preferences
+input-mouse
+
+5
+Mouse & Touchpad
+gnome-control-center mouse
+2
+34
+-gnome-network-panel.desktop
+Network
+Network settings
+network-workgroup
+
+5
+Network
+gnome-control-center network
+2
+34
+-nm-connection-editor.desktop
+Network Connections
+Manage and change your network connection settings
+preferences-system-network
+
+5
+Network Connections
+nm-connection-editor
+2
+-5
+-gnome-online-accounts-panel.desktop
+Online Accounts
+Manage online accounts
+goa-panel
+
+5
+Online Accounts
+gnome-control-center online-accounts
+2
+34
+-gnome-power-panel.desktop
+Power
+Power management settings
+gnome-power-manager
+
+5
+Power
+gnome-control-center power
+2
+34
+-libfm-pref-apps.desktop
+Preferred Applications
+
+preferences-desktop
+
+5
+Preferred Applications
+libfm-pref-apps
+2
+-15
+-gnome-printers-panel.desktop
+Printers
+Change printer settings
+printer
+
+5
+Printers
+gnome-control-center printers
+2
+34
+-gnome-region-panel.desktop
+Region & Language
+Change your region and language settings
+preferences-desktop-locale
+
+5
+Region & Language
+gnome-control-center region
+2
+34
+-gnome-sound-panel.desktop
+Sound
+Change sound volume and sound events
+multimedia-volume-control
+
+5
+Sound
+gnome-control-center sound
+2
+34
+-gnome-universal-access-panel.desktop
+Universal Access
+Universal Access Preferences
+preferences-desktop-accessibility
+
+5
+Universal Access
+gnome-control-center universal-access
+2
+34
+-gnome-user-accounts-panel.desktop
+User Accounts
+Add or remove users
+system-users
+
+5
+User Accounts
+gnome-control-center user-accounts
+2
+34
+-gnome-wacom-panel.desktop
+Wacom Tablet
+Set your Wacom tablet preferences
+input-tablet
+
+5
+Wacom Tablet
+gnome-control-center wacom
+2
+34
+
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///usr/share/lxde/wallpapers/ornaments.jpg" added="2013-01-28T22:08:07Z" modified="2013-02-17T02:06:27Z" visited="2013-01-28T22:08:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="pcmanfm" exec="&apos;pcmanfm %u&apos;" modified="2013-02-17T02:06:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/lxde/wallpapers/brick_wall.jpg" added="2013-01-28T22:08:37Z" modified="2013-01-28T22:08:37Z" visited="2013-01-28T22:08:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="pcmanfm" exec="&apos;pcmanfm %u&apos;" modified="2013-01-28T22:08:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/lxde/wallpapers/black_and_white_wood.jpg" added="2013-01-28T22:08:48Z" modified="2013-01-28T22:08:48Z" visited="2013-01-28T22:08:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="pcmanfm" exec="&apos;pcmanfm %u&apos;" modified="2013-01-28T22:08:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/logoblue.png" added="2013-02-05T19:17:58Z" modified="2013-02-05T19:17:58Z" visited="2013-02-05T19:17:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Google Chrome" exec="&apos;google-chrome %u&apos;" modified="2013-02-05T19:17:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/lxde/wallpapers/logoblue.png" added="2013-02-05T19:18:42Z" modified="2013-02-05T19:18:42Z" visited="2013-02-05T19:18:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="pcmanfm" exec="&apos;pcmanfm %u&apos;" modified="2013-02-05T19:18:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/robocode/libs/robocode.jar" added="2013-02-17T02:19:35Z" modified="2013-02-17T02:19:35Z" visited="2013-02-17T02:19:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2013-02-17T02:19:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/robocode/libs" added="2013-02-17T02:19:53Z" modified="2013-02-17T02:19:53Z" visited="2013-02-17T02:19:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2013-02-17T02:19:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/robocode/robots/sample/MyFirstRobot.java" added="2013-02-17T02:25:13Z" modified="2013-02-17T02:25:13Z" visited="2013-02-17T02:25:13.448681Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2013-02-17T02:25:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
