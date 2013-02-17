@@ -22,9 +22,6 @@ import robocode.ScannedRobotEvent;
  */
 public class GoldenHobo extends Robot {
 
-	public void randomTest (){
-		
-	}
 	/**
 	 * MyFirstRobot's run method - Seesaw
 	 */
